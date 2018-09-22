@@ -1,4 +1,4 @@
-//Trace of given matrix
+//Program to find trace of given matrix
 #include<stdio.h>
 void main()
 {
