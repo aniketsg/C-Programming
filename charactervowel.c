@@ -1,3 +1,4 @@
+//Program to find whether the given character is vowel or not
 #include<stdio.h>
 void main(){
 char ch;
